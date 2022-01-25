@@ -1,4 +1,6 @@
-# creative-cards-starter
+# creative-cards-vue
+Vue 3 simple creative cards application
+
 
 ## Project setup
 ```
@@ -22,3 +24,5 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
