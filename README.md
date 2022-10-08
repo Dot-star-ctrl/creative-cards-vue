@@ -1,10 +1,14 @@
 # creative-cards-vue
 Vue 3 creative cards application
 
-<table>
-  <tr>
-    <td valign="top"><img src="src/assets/images/page_1.png" alt="Logo" width="500" height="450"></td>
-    <td valign="top"><img src="src/assets/images/page_2.png" alt="Logo" width="500" height="400"></td>
+<table align="center">
+<tr>
+<td align="center" width="9999">
+<a align="center">
+    <img src="src/assets/images/page_1.png" alt="Logo" width="550" height="500">
+<img src="src/assets/images/page_2.png" alt="Logo" width="550" height="450">
+</a>
+</td>
 </tr>
 </table>
 
